@@ -1,6 +1,6 @@
 # Find the mean of n numbers
 
-n = int(input("Enter number of numbers: "))
+n = int(input("number of numbers: "))
 numbers = []
 total = 0
 for i in range(n):
